@@ -1,27 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mohammed Kasmi</h1>
-<h3 align="center">A software engineering student building AI-powered automation and full-stack applications</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **MCMA Agent — Insurance Workflow Automation**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:00D9FF,100:7F00FF&height=230&section=header&text=Mohammed%20Kasmi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20Full-Stack&descAlignY=55&descSize=18" alt="Mohammed Kasmi banner" />
 
-- 🌱 I’m currently learning **Cloud, DevOps, advanced AI agents, and system architecture**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=I+build+AI-powered+automation;I+design+reliable+backend+systems;I+turn+repetitive+work+into+software" alt="Typing introduction" />
+</a>
 
-- 👯 I’m looking to collaborate on **AI agents and intelligent automation projects**
-
-- 🤝 I’m looking for help with **Scaling reliable AI agents for production**
-
-- 👨‍💻 All of my projects are available at [https://medkasmi.vercel.app/](https://medkasmi.vercel.app/)
-
-- 💬 Ask me about **Java, Spring Boot, React, Python, Playwright, and AI automation**
-
-- 📫 How to reach me **mohammedkasmi7603@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning repetitive real-world tasks into automated systems ⚡**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasmi-mohammed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasmi-mohammed/" height="30" width="40" /></a>
+<p>
+  <a href="https://medkasmi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6A00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kasmi-mohammed/"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammedkasmi7603@gmail.com"><img src="https://img.shields.io/badge/Email-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</div>
 
+## `> whoami`
+
+```ts
+const mohammed = {
+  role: "Software Engineering Student",
+  focus: ["AI Agents", "Workflow Automation", "Distributed Systems"],
+  currentlyBuilding: "MCMA Agent",
+  principle: "Automate repetition. Keep humans in control.",
+};
+```
+
+- 🔭 Building **MCMA Agent**, a safety-first system that automates insurance workflows.
+- 🧠 Exploring **AI agents, cloud architecture, DevOps, and production reliability**.
+- 🤝 Open to collaborating on **AI automation and meaningful full-stack products**.
+- 💬 Ask me about **Java, Spring Boot, Python, Playwright, React, Kafka, or AI/ML**.
+
+## ✨ Featured work
+
+| Project | What it does | Core technologies |
+| --- | --- | --- |
+| [**MCMA Agent**](https://medkasmi.vercel.app/) | Automates repetitive insurance workflows with deterministic browser control, safety gates, and human validation. | Python · Playwright · FastAPI · SQLite |
+| [**AI Radiology Platform**](https://medkasmi.vercel.app/) | Coordinates consultations, X-ray analysis, medical reports, and notifications through event-driven microservices. | Java · Spring Boot · Kafka · MinIO · Keycloak |
+| [**Chest X-ray Classifier**](https://medkasmi.vercel.app/) | Classifies X-rays across COVID-19, pneumonia, tuberculosis, and normal cases using transfer learning. | Python · TensorFlow · EfficientNet · OpenCV |
+
+<div align="center">
+  <a href="https://medkasmi.vercel.app/"><b>Explore my complete portfolio →</b></a>
+</div>
+
+## 🧰 Technology constellation
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,nextjs,ts,tailwind,html,css&perline=10" alt="Application development skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker,git,githubactions,linux,aws,tensorflow&perline=10" alt="Data, infrastructure, and AI skills" />
+</div>
+
+## 📡 GitHub signal
+
+<div align="center">
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedkasmii&theme=tokyonight" alt="Mohammed's GitHub activity summary" />
+</div>
+
+## 🐍 Contribution journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedkasmii/mohammedkasmii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedkasmii/mohammedkasmii/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation moving through Mohammed's GitHub contribution graph" src="https://raw.githubusercontent.com/mohammedkasmii/mohammedkasmii/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+
+### Let’s build something useful.
+
+<sub>Good software removes friction. Great software gives people back their time.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D9FF,100:6A00FF&height=120&section=footer" alt="Footer wave" />
